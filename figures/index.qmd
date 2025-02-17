@@ -1,0 +1,28 @@
+---
+title: "Research Introduction: AI vs. Non-AI Careers"
+author: "Team 4"
+date: today
+format: 
+  html:
+    bibliography: references.bib
+    csl: csl/econometrica.csl
+    toc: true
+---
+
+## Introduction
+
+Artificial Intelligence (Al) is rapidly transforming industries, reshaping job roles, and redefiningemployment patterns. while AI-driven automation raises concerns about job displacement, it also fostersjob creation in emerging fields, As AI continues to integrate into various sectors in 2024 and future,understanding its impact on job security is essential. This study examines whether Ar is primarilydisplacing jobs or generating new opportunities, highlighting industries experiencing AI-driven growthversus those facing employment risks.
+
+## Research Rationale
+
+Recent studies indicate that Alis transforming the iob market by automating roles in manufacturing.customer service, and administrative work, leading to iob displacement. At the same time, it is drivingdemand for skilled professionals in AI development, cybersecurity, and data analysis, creating new careeropportunities(@perrault2024artificial). As At continues to evolve, workers will need to adapt bydeveloping new skills, making AI-focused education and training increasingly essential.
+This research aims to explore how AI is reshaping employment, balancing job losses with new job creation.The findings will provide valuable insights for businesses, policymakers, and workers, helping themnavigate Al-driven changes and prepare for the future workforce.
+
+## Brief Literature Review
+
+Existing research highlights the growing divide between AI-driven careers and traditional industries.
+
+@perrault2024artificial In 2023, AI-related job postings accounted for 1.6% of all listings in theUnited states.from 2.8% in 2022, This decline is linked to fewer openings from top Al firms and aCOwn.reduced emphasis on tech roles within these companies.
+
+## References  
+
