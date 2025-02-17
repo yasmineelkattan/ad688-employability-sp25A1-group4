@@ -11,12 +11,12 @@ format:
 
 ## Introduction
 
-Artificial Intelligence (Al) is rapidly transforming industries, reshaping job roles, and redefiningemployment patterns. while AI-driven automation raises concerns about job displacement, it also fostersjob creation in emerging fields, As AI continues to integrate into various sectors in 2024 and future,understanding its impact on job security is essential. This study examines whether Ar is primarilydisplacing jobs or generating new opportunities, highlighting industries experiencing AI-driven growthversus those facing employment risks.
+Artificial Intelligence (Al) is rapidly transforming industries, reshaping job roles, and redefining employment patterns. While AI-driven automation raises concerns about job displacement, it also fosters job creation in emerging fields, As AI continues to integrate into various sectors in 2024 and future, understanding its impact on job security is essential. This study examines whether Ar is primarily displacing jobs or generating new opportunities, highlighting industries experiencing AI-driven growth versus those facing employment risks.
 
 ## Research Rationale
 
-Recent studies indicate that Alis transforming the iob market by automating roles in manufacturing.customer service, and administrative work, leading to iob displacement. At the same time, it is drivingdemand for skilled professionals in AI development, cybersecurity, and data analysis, creating new careeropportunities(@perrault2024artificial). As At continues to evolve, workers will need to adapt bydeveloping new skills, making AI-focused education and training increasingly essential.
-This research aims to explore how AI is reshaping employment, balancing job losses with new job creation.The findings will provide valuable insights for businesses, policymakers, and workers, helping themnavigate Al-driven changes and prepare for the future workforce.
+Recent studies indicate that AI is transforming the job market by automating roles in manufacturing, customer service, and administrative work, leading to job displacement. At the same time, it is driving demand for skilled professionals in AI development, cybersecurity, and data analysis, creating new career opportunities(@perrault2024artificial). As AI continues to evolve, workers will need to adapt by developing new skills, making AI-focused education and training increasingly essential.
+This research aims to explore how AI is reshaping employment, balancing job losses with new job creation.The findings will provide valuable insights for businesses, policymakers, and workers, helping them navigate Al-driven changes and prepare for the future workforce. 
 
 ## Brief Literature Review
 
