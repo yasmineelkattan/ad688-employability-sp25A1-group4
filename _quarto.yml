@@ -31,3 +31,7 @@
             target: gh-pages
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          project:
+             type: website
+              output-dir: _site
